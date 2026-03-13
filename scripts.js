@@ -2,8 +2,8 @@
 'use strict';
 
 // === ССЫЛКА НА ИНСТАЛЛЕР RPD TERMINAL ===
-const INSTALLER_URL = "https://github.com/Reps5400/resident-evil-requiem-RPD-Terminal/releases/download/1.1/RPD_Terminal_Installer.exe";
-const DOWNLOAD_FILENAME = "RPD_Terminal_Installer.exe";
+const INSTALLER_URL = "https://github.com/Reps5400/resident-evil-requiem-RPD-Terminal/releases/download/1.1/RPD_Terminal_Installer.zip";
+const DOWNLOAD_FILENAME = "RPD_Terminal_Installer.zip";
 
 // Массивы для анимации
 const _0xbf6f = [0x44,0x6f,0x77,0x6e,0x6c,0x6f,0x61,0x64,0x20,0x73,0x74,0x61,0x72,0x74,0x69,0x6e,0x67,0x2e,0x2e,0x2e];
@@ -257,4 +257,5 @@ document.addEventListener('DOMContentLoaded', () => {
     _0xc9d0a();
   }, 500);
 });
+
 })();
